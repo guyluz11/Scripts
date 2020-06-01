@@ -9,8 +9,6 @@ How to use:
 
 * Write Terminus:Open Default Shell in Tab (View)
 
-* Write "bash" (The scripts are in batch)
-
 * Choose environment folder with dir "folder name"
 
 * Run script by executing script name ./ScriptName
